@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Luma: externally validated chest X-ray AI research prototype">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071a1f"/>
+      <stop offset="1" stop-color="#0d2a30"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.3" r="0.6">
+      <stop offset="0" stop-color="#3fd6c1" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#3fd6c1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+  <!-- lung outline motif -->
+  <g fill="none" stroke="#3fd6c1" stroke-width="3" stroke-linecap="round" opacity="0.9" transform="translate(70 70)">
+    <path d="M78 10 V70 M78 70 C70 80 58 86 48 92 M78 70 C86 80 98 86 108 92"/>
+    <path d="M66 30 C36 30 14 70 12 118 C11 140 26 152 46 146 C62 141 66 126 66 106 Z"/>
+    <path d="M90 30 C120 30 142 70 144 118 C145 140 130 152 110 146 C94 141 90 126 90 106 Z"/>
+  </g>
+  <text x="250" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="#f3efe6">Luma</text>
+  <text x="252" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#9fc9c3" letter-spacing="1.5">EXTERNALLY VALIDATED CHEST X-RAY AI · RESEARCH PROTOTYPE</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#071a1f" font-weight="600">
+    <rect x="252" y="200" width="250" height="40" rx="20" fill="#3fd6c1"/>
+    <text x="377" y="226" text-anchor="middle">0.854 external AUROC</text>
+    <rect x="516" y="200" width="250" height="40" rx="20" fill="#3fd6c1"/>
+    <text x="641" y="226" text-anchor="middle">96 ms median on CPU</text>
+    <rect x="780" y="200" width="310" height="40" rx="20" fill="#3fd6c1"/>
+    <text x="935" y="226" text-anchor="middle">Inference stays on the machine</text>
+  </g>
+</svg>
