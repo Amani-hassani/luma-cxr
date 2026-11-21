@@ -2,6 +2,8 @@
 
 <img src="assets/banner.svg" alt="Luma: externally validated chest X-ray AI research prototype" width="100%"/>
 
+<img src="assets/cards.svg" alt="0.994 to 0.757 dataset shift caught · 0.854 external AUROC · 96 ms CPU inference · 90 tests" width="100%"/>
+
 <br/>
 
 ![Status](https://img.shields.io/badge/status-research%20prototype-0d2a30)
