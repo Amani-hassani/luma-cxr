@@ -58,4 +58,4 @@ opacity. **Negative:** no reader marked any of them. The 750 images marked by ex
 
 A Phase I paediatric pneumonia model reached 0.994 AUROC internally but 0.757 on 26,683 external RSNA images (specificity
 0.37 at its pre-set threshold). It was never released. That failure is the reason this model was selected and locked
-before any external testing. The Phase I study itself is under peer review.
+before any external testing. The Phase I study itself is being prepared for publication.

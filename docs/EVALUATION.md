@@ -22,7 +22,7 @@
 The threshold and calibration were fixed on a separate calibration set before external testing. The collapse in
 specificity meant the model would flag most healthy adults, so it was not released.
 
-> Detailed Phase I methods and comparisons are part of a paper under peer review and are not reproduced here.
+> Detailed Phase I methods and comparisons are part of a paper being prepared for publication and are not reproduced here.
 
 ## Phase II: the released model
 

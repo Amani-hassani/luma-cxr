@@ -24,7 +24,7 @@
 > [!NOTE]
 > **About this repository.** This is the public showcase for Luma, built during my engineering internship at
 > ESPRIT-Tech (Jul–Sep 2026). The source code, notebooks and model weights are private while the related
-> research paper is under peer review. Code walkthroughs are available to recruiters and interviewers on request.
+> research paper is being prepared for publication. Code walkthroughs are available to recruiters and interviewers on request.
 
 > [!WARNING]
 > Luma is an academic research demonstration. It is **not a medical device** and must not be used for diagnosis,
@@ -217,7 +217,7 @@ adversarial robustness benchmark.
 
 ## 📄 Research
 
-The Phase I study on pooling operators and external evaluation is **under peer review**. A citation and link will be
+The Phase I study on pooling operators and external evaluation is **being prepared for publication**. A citation and link will be
 added after publication.
 
 ## 👩‍💻 Author
